@@ -6,6 +6,58 @@ h3 {
   text-transform: uppercase;
 }
 
+.logo {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.menu-trigger {
+  position: absolute;
+  text-align: right;
+  top: 22px;
+  right: 10px;
+  border: 1px solid silver;
+  padding: 0.4em 0.8em 0.4em 0.8em;
+  border-radius: 0.5em;
+  text-decoration: none;
+}
+
+nav {
+  margin-top: 2em;
+  display: none;
+}
+
+nav li {
+  list-style-type: none;
+}
+
+nav a {
+  text-decoration: none;
+  text-align: middle;
+  font-size: 1.0em;
+  color: black;
+  padding: 0.5em;
+}
+
+@media (min-width: 800px) {
+  .menu-trigger {
+    display: none;
+  }
+
+  .u-cf {
+    display: inline-block;
+    clear: none;
+  }
+
+  nav {
+    display: block;
+  }
+
+  nav li {
+    display: inline;
+  }
+}
+
 footer {
   margin-top: 3em;
   background-color: #666;
@@ -25,5 +77,3 @@ footer a {
 .footer-copy {
   color: #ccc;
 }
-
-.nav-collapse
