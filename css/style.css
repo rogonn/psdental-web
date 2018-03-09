@@ -1,0 +1,29 @@
+body {
+  background-color: white;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+footer {
+  margin-top: 3em;
+  background-color: #666;
+  min-height: 150px;
+  padding: 1em;
+  color: white;
+}
+
+footer a {
+  color: white;
+}
+
+.footer-more-info {
+  text-transform: uppercase;
+}
+
+.footer-copy {
+  color: #ccc;
+}
+
+.nav-collapse
