@@ -67,6 +67,10 @@ nav a {
   border-radius: 0.5em;
 }
 
+.map {
+  overflow: hidden;
+}
+
 footer {
   margin-top: 3em;
   background-color: #666;
