@@ -34,7 +34,7 @@ nav li {
 nav a {
   text-decoration: none;
   text-align: middle;
-  font-size: 1.0em;
+  font-size: 1.2em;
   color: black;
   padding: 0.5em;
 }
@@ -58,6 +58,15 @@ nav a {
   }
 }
 
+.services .columns {
+  text-align: center;
+  padding-bottom: 2em;
+}
+
+.services img {
+  border-radius: 0.5em;
+}
+
 footer {
   margin-top: 3em;
   background-color: #666;
@@ -76,4 +85,9 @@ footer a {
 
 .footer-copy {
   color: #ccc;
+}
+
+.button-primary {
+  background-color: purple !important;
+  border: none;
 }
