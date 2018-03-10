@@ -7,9 +7,8 @@ h3 {
 }
 
 .header-background {
-  background-color: #eee;
+  background-color: #212447;
   margin-bottom: 2em;
-  border-bottom: 1px solid #ddd;
 }
 
 .logo {
@@ -41,7 +40,7 @@ nav a {
   text-decoration: none;
   text-align: middle;
   font-size: 1.2em;
-  color: black;
+  color: white;
   padding: 0.5em;
 }
 
