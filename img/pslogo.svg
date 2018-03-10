@@ -15,8 +15,8 @@
    sodipodi:docname="pslogo.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    inkscape:export-filename="/home/rogon/psdental-web/img/pslogo.png"
-   inkscape:export-xdpi="26.033413"
-   inkscape:export-ydpi="26.033413">
+   inkscape:export-xdpi="29.157421"
+   inkscape:export-ydpi="29.157421">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -49,8 +49,8 @@
      fit-margin-left="5"
      fit-margin-bottom="5"
      inkscape:zoom="0.40456622"
-     inkscape:cx="71.679345"
-     inkscape:cy="93.681728"
+     inkscape:cx="-421.44141"
+     inkscape:cy="83.794595"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -70,7 +70,7 @@
        font-weight="bold"
        letter-spacing="0px"
        word-spacing="0px"
-       style="font-weight:bold;font-size:16.93300056px;line-height:1.25;font-family:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;stroke-width:0.26458001"
+       style="font-weight:bold;font-size:16.93300056px;line-height:1.25;font-family:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.26458001;"
        xml:space="preserve"
        id="text6"><tspan
          x="69.392914"
@@ -78,10 +78,10 @@
          font-size="16.933px"
          font-weight="bold"
          id="tspan4"
-         style="font-weight:bold;font-size:16.93300056px;font-family:'Nimbus Sans L';fill:#bfbfbf;stroke-width:0.26458001">PALM SQUARE DENTAL </tspan></text>
+         style="font-weight:bold;font-size:16.93300056px;font-family:'Nimbus Sans L';fill:#ffffff;stroke-width:0.26458001;">PALM SQUARE DENTAL </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111164px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111164px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458335;"
        x="69.963737"
        y="133.39244"
        id="text829"><tspan
@@ -89,6 +89,6 @@
          id="tspan827"
          x="69.963737"
          y="133.39244"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333435px;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';fill:#bfbfbf;stroke-width:0.26458335">Let your smile change the world</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333435px;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';fill:#ffffff;stroke-width:0.26458335;">Let your smile change the world</tspan></text>
   </g>
 </svg>
