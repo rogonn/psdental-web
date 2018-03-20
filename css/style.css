@@ -15,6 +15,12 @@ h3 {
   padding: 9em;
 }
 
+.header-contact p {
+  color: white;
+  font-size: 24pt;
+  font-family: 'Caveat', cursive;
+}
+
 .logo {
   padding-top: 1em;
   padding-bottom: 1em;
@@ -112,6 +118,7 @@ footer a {
 }
 
 .button-primary {
-  background-color: purple !important;
+  background-color: darkorange !important;
   border: none;
+  width: 180px;
 }
