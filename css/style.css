@@ -79,17 +79,33 @@ nav i {
   }
 }
 
+.service-container {
+  background-color: #f0f0f0;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+.services .columns {
+  text-align: center;
+}
+
 .services img {
   border-radius: 0.2em;
 }
 
 .service-title {
-  font-size: 14pt;
+  font-size: 15pt;
   margin-bottom: 0.5em;
 }
 
+.service-title2 {
+  font-size: smaller;
+  color: #666;
+}
+
 .service-info {
-  text-align: justify;
+  text-align: left;
+  font-size: normal;
 }
 
 .map {
