@@ -126,6 +126,7 @@ footer a {
 
 .footer-copy {
   color: #ccc;
+  margin-top: 2em;
 }
 
 .button-primary {
@@ -162,5 +163,9 @@ footer a {
 
   .service-info {
     display: block;
+  }
+
+  .footer-copy {
+    margin-top: 0.5em;
   }
 }
