@@ -12,7 +12,19 @@ h3 {
 }
 
 .header-contact {
-  padding: 9em;
+  text-align: center;
+  padding-bottom: 2em;
+}
+
+.header-social {
+  padding-top: 2em;
+  padding: 1em;
+}
+
+.header-social i{
+  font-size: 24pt;
+  color: white;
+  padding: 0.2em;
 }
 
 .header-contact p {
@@ -60,24 +72,6 @@ nav i {
   color: skyblue;
 }
 
-@media (min-width: 800px) {
-  .menu-trigger {
-    display: none;
-  }
-
-  .u-cf {
-    display: inline-block;
-    clear: none;
-  }
-
-  nav {
-    display: block;
-  }
-
-  nav li {
-    display: inline;
-  }
-}
 
 .service-container {
   background-color: #f0f0f0;
@@ -106,6 +100,7 @@ nav i {
 .service-info {
   text-align: left;
   font-size: normal;
+  display: none;
 }
 
 .map {
@@ -137,4 +132,35 @@ footer a {
   background-color: darkorange !important;
   border: none;
   width: 180px;
+}
+
+@media (min-width: 800px) {
+  .menu-trigger {
+    display: none;
+  }
+
+  .header-contact {
+    margin-top: 120px;
+  }
+
+  .header-social {
+    display: none;
+  }
+
+  .u-cf {
+    display: inline-block;
+    clear: none;
+  }
+
+  nav {
+    display: block;
+  }
+
+  nav li {
+    display: inline;
+  }
+
+  .service-info {
+    display: block;
+  }
 }
